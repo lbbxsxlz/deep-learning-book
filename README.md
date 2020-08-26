@@ -2,9 +2,12 @@
 ![Book cover](_cover.jpg?raw=true)
 
 # Deep Learning Book
+
+# [English Version](https://github.com/zsdonghao/deep-learning-book/blob/master/All-in-one-pdf/《Deep%20Learning》all-in-one.pdf)  [Chinese Version](https://github.com/zsdonghao/deep-learning-book/blob/master/dlbook_cn_public.pdf)
+
 MIT Deep Learning Book in PDF format
 
-This book was downloaded in HTML form and conviniently joined as a single PDF file for your enjoyment. PLEASE SUPPORT PROFESSOR IAN GOODFELLOW and the authors if you can purchase the paper book at Amazon. It is not expensive ($72) and probably contains content that is newer and without typographic mistakes.
+This book was downloaded in HTML form and conviniently joined as a single PDF file for your enjoyment. PLEASE SUPPORT IAN GOODFELLOW and the authors if you can purchase the paper book at Amazon. It is not expensive ($72) and probably contains content that is newer and without typographic mistakes.
 
 [Deep Learning - Adaptive Computation and Machine Learning series](http://amzn.to/2qlQqZs) by Ian Goodfellow (Author), Yoshua Bengio  (Author), Aaron Courville  (Author)
 
